@@ -1,0 +1,54 @@
+<project version="4">
+  <component name="PRCommentsStorage">
+    <option name="authenticatedLogin" value="Khevinzhito" />
+    <option name="collapsedComments">
+      <list />
+    </option>
+    <option name="collapsedFilePaths">
+      <list />
+    </option>
+    <option name="collapsedPRs">
+      <list />
+    </option>
+    <option name="comments">
+      <list />
+    </option>
+    <option name="hasReviewerData" value="true" />
+    <option name="lastSeenTimestamps">
+      <map />
+    </option>
+    <option name="mutedPRNumbers">
+      <list />
+    </option>
+    <option name="notificationLastModified" />
+    <option name="notificationThreadCache">
+      <map />
+    </option>
+    <option name="notifiedAggregatedState">
+      <map />
+    </option>
+    <option name="notifiedReviewRequestPRs">
+      <list />
+    </option>
+    <option name="owner" value="Khevinzhito" />
+    <option name="prs">
+      <list />
+    </option>
+    <option name="readCommentIds">
+      <list />
+    </option>
+    <option name="repo" value="MyPetShop" />
+    <option name="reviewStateBackfilled" value="true" />
+    <option name="reviewerPRNumbers">
+      <list />
+    </option>
+    <option name="showOnlyUnread" value="false" />
+    <option name="showPreviewPanel" value="true" />
+    <option name="snoozedMentionReminderUntil" />
+    <option name="snoozedReviewRequestPRs">
+      <map />
+    </option>
+    <option name="snoozedUnreadReminderUntil" />
+    <option name="threadStateBackfilled" value="true" />
+  </component>
+</project>
