@@ -70,9 +70,9 @@ com.example.mypetshop/
 
 | Rol | Correo / Usuario | Contraseña |
 |-----|------------------|------------|
-| **Comprador** | `kbrgvinzhito@gmail.com` | `10251025Aa` |
+
 | **Administrador** | `admin@mypetshop.com` | `Admin1234` |
-| **Repartidor** | `repartidor@mypetshop.com` | `10251025Aa` |
+
 
 ---
 
